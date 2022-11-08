@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- <a href="https://arthurcam.com">Write something nice on my ardoino stream project <br>
+- <a href="https://arthurcam.com">Write something nice on my ardoino streaming project <br>
   <img width="102" height="auto" src="https://i.imgur.com/CGIDILZ.png" akt="arduino web control online stream">
 </a>
 
