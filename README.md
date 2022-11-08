@@ -10,6 +10,12 @@
   <img width="135" height="auto" src="https://i.imgur.com/rYLUyjD.png" akt="buy me coffee">
 </a>
 
+For progemmers usage I wrote, DataStructures and Algorithms in:
+<a href="https://github.com/w3arthur/DataStructures-Algorithms-Cpp">C++</a>, 
+<a href="https://github.com/w3arthur/DataStructures-Algorithms-CSharp">.NET (C#)</a>, 
+<a href="https://github.com/w3arthur/DataStructures-Algorithms-Java">Java</a> 
+
+
 <!--
 **w3arthur/w3arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
