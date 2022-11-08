@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+  <a href="https://www.buymeacoffee.com/w3arthur">Buy me a java <br>
+  <img width="154" height="auto" src="https://i.imgur.com/rYLUyjD.png" akt="buy me coffee"></a>
+
 <!--
 **w3arthur/w3arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
