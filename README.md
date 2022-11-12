@@ -17,6 +17,10 @@ For progemmers usage I wrote:<br>
 </a>
 
 
+<br>
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
 <!--
 **w3arthur/w3arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
