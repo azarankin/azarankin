@@ -17,6 +17,5 @@ For progemmers usage I wrote:<br>
 </a>
 <a href="https://ko-fi.com/w3arthur">
   <img width="50" height="auto" src="https://i.imgur.com/CAed4AA.png" akt="buy me coffee">
-</a>
-
-I am really drink it 😁
+</a><br>
+I really drink it 😁
