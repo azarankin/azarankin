@@ -36,10 +36,16 @@ Running on Jetson Orin NX with voice interaction and robot control.
   </a>
 </p>
 
-
 ### 🎁 [Jetson Xavier Giveaway](https://xavier.w3arthur.com)  
 Sharing a high-performance edge-AI kit with the community.  
 Includes NVIDIA Jetson Xavier AGX 32GB, carrier board, accessories, setup guide, and support.
+
+---
+
+## 🌐 Personal Portfolio
+
+🔗 [arthur-zarankin.com](https://arthur-zarankin.com) — My professional homepage:  
+projects · certifications · live demos · contact info
 
 ---
 
