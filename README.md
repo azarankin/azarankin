@@ -21,7 +21,7 @@
 Live camera streaming + smart control using WebSocket & REST.  
 Turn on lights, LEDs, or send messages to an embedded system over the web.
 <p align="center">
-    <a href="https://youtu.be/SUPT8yU3pgg" title="arthurcam.com">
+    <a href="https://arthurcam.com" title="arthurcam.com">
       <img src="https://i.imgur.com/CGIDILZ.png" width="300"/>
     </a>
 </p>
